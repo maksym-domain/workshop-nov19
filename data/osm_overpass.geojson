@@ -1,0 +1,822 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/21397908",
+      "properties": {
+        "advertising": "billboard",
+        "name": "Coca-Cola billboard",
+        "tourism": "attraction",
+        "wikidata": "Q5139093",
+        "wikipedia": "en:Coca-Cola billboard",
+        "id": "node/21397908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2222409,
+          -33.8752797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/25843272",
+      "properties": {
+        "name": "Darling Harbour",
+        "name:aus": "Tumbalong",
+        "name:etymology": "Governor Ralph Darling",
+        "natural": "bay",
+        "ref:nswgnb": "82284",
+        "source:name:aus": "nswgnb",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikidata": "Q54488",
+        "wikipedia": "en:Darling Harbour",
+        "id": "node/25843272"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2004539,
+          -33.8714291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/26680361",
+      "properties": {
+        "name": "Welcome Wall",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "id": "node/26680361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.198829,
+          -33.868606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/318321519",
+      "properties": {
+        "name": "The Big Merino",
+        "tourism": "attraction",
+        "website": "https://www.bigmerino.com.au/",
+        "id": "node/318321519"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.6914601,
+          -34.7725844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/477276204",
+      "properties": {
+        "historic": "monument",
+        "name": "Dog on the Tucker Box",
+        "tourism": "attraction",
+        "website": "https://www.thedogonthetuckerbox.com/",
+        "id": "node/477276204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.1105331,
+          -35.0010547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/478486496",
+      "properties": {
+        "amenity": "pub",
+        "historic": "yes",
+        "name": "Goulburn Brewery",
+        "source": "GPS",
+        "tourism": "attraction",
+        "id": "node/478486496"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.7197092,
+          -34.7670398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/498485346",
+      "properties": {
+        "addr:city": "Gilead",
+        "addr:housenumber": "86",
+        "addr:postcode": "2560",
+        "addr:street": "Menangle Road",
+        "name": "Campbelltown Steam & Machinery Museum",
+        "tourism": "attraction",
+        "website": "http://www.csmm.com.au/",
+        "id": "node/498485346"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7697954,
+          -34.0929785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/642333245",
+      "properties": {
+        "addr:city": "Melbourne",
+        "addr:housenumber": "66",
+        "addr:postcode": "3000",
+        "addr:street": "Bourke Street",
+        "amenity": "cafe",
+        "building": "retail",
+        "name": "Pellegrini's",
+        "phone": "0396621885",
+        "tourism": "attraction",
+        "wikidata": "Q58481453",
+        "id": "node/642333245"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.971173,
+          -37.811722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/660493447",
+      "properties": {
+        "name": "Floral Clock",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "id": "node/660493447"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.970552,
+          -37.8227789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1973804573",
+      "properties": {
+        "name": "McDonnell's Railway Tavern site",
+        "tourism": "attraction",
+        "id": "node/1973804573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2245619,
+          -36.463765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1973804587",
+      "properties": {
+        "name": "Ned Kelly Copse",
+        "tourism": "attraction",
+        "id": "node/1973804587"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2235415,
+          -36.4614588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1973804590",
+      "properties": {
+        "name": "Ned Kelly's Capture",
+        "tourism": "attraction",
+        "id": "node/1973804590"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2236119,
+          -36.4617637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1973804598",
+      "properties": {
+        "name": "The Glenrowan Inn",
+        "tourism": "attraction",
+        "id": "node/1973804598"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2225905,
+          -36.4622251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2440051619",
+      "properties": {
+        "name": "Old Gundagai Gaol",
+        "tourism": "attraction",
+        "website": "http://www.visitgundagai.com.au/2011/old-gundagai-gaol/",
+        "id": "node/2440051619"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.1059193,
+          -35.0640503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3262971547",
+      "properties": {
+        "name": "Sundial",
+        "tourism": "attraction",
+        "id": "node/3262971547"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7665527,
+          -34.0781744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3992600269",
+      "properties": {
+        "name": "Sea Life Center",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikidata": "Q2591764",
+        "id": "node/3992600269"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2019204,
+          -33.8696521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4320814143",
+      "properties": {
+        "amenity": "winery",
+        "name": "Eling Forest Winery",
+        "tourism": "attraction",
+        "id": "node/4320814143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.2568139,
+          -34.569403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4374907541",
+      "properties": {
+        "name": "Sugarloaf Horse Riding Farm",
+        "source": "NSW LPI Base Map",
+        "source:date": "2016-08",
+        "tourism": "attraction",
+        "id": "node/4374907541"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7719622,
+          -34.0946102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4405133314",
+      "properties": {
+        "alt_name": "Little Greece",
+        "name": "Greek Precinct",
+        "phone": "+603 9663 3194",
+        "tourism": "attraction",
+        "website": "http://www.greekprecinct.com.au/",
+        "wikidata": "Q5601869",
+        "wikipedia": "en:Greek Precinct, Melbourne",
+        "id": "node/4405133314"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9666272,
+          -37.8110329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4438512191",
+      "properties": {
+        "name": "wharf no 5",
+        "name:en": "wharf no 5",
+        "tourism": "attraction",
+        "id": "node/4438512191"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2010493,
+          -33.867618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4438530889",
+      "properties": {
+        "addr:housenumber": "66",
+        "addr:street": "Darlinghurst Road",
+        "name": "Drag MSIC Injuction",
+        "tourism": "attraction",
+        "id": "node/4438530889"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2230278,
+          -33.8744038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4438705989",
+      "properties": {
+        "addr:housenumber": "100",
+        "addr:street": "Market Street",
+        "name": "Sydney tower entrance",
+        "name:en": "Sydney tower entrance",
+        "tourism": "attraction",
+        "id": "node/4438705989"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2084686,
+          -33.8707038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4469457289",
+      "properties": {
+        "addr:housenumber": "129-131",
+        "addr:street": "Flinders Lane",
+        "attraction": "historic_building",
+        "building:levels": "3",
+        "description": "Oldest building of its type in the easern part of the city. 3 storey bluestone warehuse built for Levy and Robertson fancy goods importing business.",
+        "fee": "no",
+        "name": "Levy and Robinson's Warehouse",
+        "public_access": "exterior",
+        "start_date": "1857",
+        "tourism": "attraction",
+        "id": "node/4469457289"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9706217,
+          -37.8155063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4486380990",
+      "properties": {
+        "addr:housenumber": "364-372",
+        "addr:postcode": "2000",
+        "addr:street": "Kent Street",
+        "name": "Crone Architects",
+        "tourism": "attraction",
+        "id": "node/4486380990"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2049821,
+          -33.870569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4491085193",
+      "properties": {
+        "name:en": "studio 502, 19a",
+        "tourism": "attraction",
+        "id": "node/4491085193"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2251198,
+          -33.878811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4518276721",
+      "properties": {
+        "name": "Collingwood House",
+        "tourism": "attraction",
+        "id": "node/4518276721"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9186534,
+          -33.9343414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4788735125",
+      "properties": {
+        "name": "China Town",
+        "name:en": "China Town",
+        "name:zh": "唐人街",
+        "official_name:zh": "墨爾本唐人街",
+        "tourism": "attraction",
+        "id": "node/4788735125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9652101,
+          -37.8125245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4792788624",
+      "properties": {
+        "name": "Chinatown",
+        "name:en": "Chinatown",
+        "tourism": "attraction",
+        "id": "node/4792788624"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2042277,
+          -33.8769891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4844904523",
+      "properties": {
+        "addr:street": "Angel Place",
+        "name": "Birdcage Alley",
+        "tourism": "attraction",
+        "id": "node/4844904523"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2076871,
+          -33.8671997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4844904524",
+      "properties": {
+        "name": "GPO Colonnade",
+        "name:en": "GPO Colonnade",
+        "tourism": "attraction",
+        "id": "node/4844904524"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2073995,
+          -33.8676568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4860741429",
+      "properties": {
+        "name": "Raby Interchange",
+        "name:en": "Raby Interchange",
+        "tourism": "attraction",
+        "id": "node/4860741429"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8238939,
+          -34.03241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4935347723",
+      "properties": {
+        "addr:housenumber": "3",
+        "addr:postcode": "3006",
+        "addr:street": "Southgate Avenue",
+        "attraction": "eating_places",
+        "description": "Riverside restarants, cafes, bars & boutique shopping (Source: website)",
+        "fee": "no",
+        "name": "Southgate Mall",
+        "opening_hours": "24/7",
+        "phone": "+61396861000",
+        "public_access": "yes",
+        "tourism": "attraction",
+        "website": "https://www.southgatemelbourne.com.au/",
+        "id": "node/4935347723"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.966393,
+          -37.8201768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4936370201",
+      "properties": {
+        "addr:postcode": "3000",
+        "addr:street": "Flinders Street",
+        "name": "Flinders Street Railway Station",
+        "opening_hours": "24/7",
+        "phone": "+61396107476",
+        "tourism": "attraction",
+        "website": "https://www.ptv.vic.gov.au/",
+        "id": "node/4936370201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9664779,
+          -37.8184161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4936370204",
+      "properties": {
+        "addr:city": "Melbourne",
+        "addr:postcode": "3000",
+        "addr:street": "Bourke Street Mall",
+        "attraction": "shopping",
+        "description": "Pedestrian & tram-only portion of Bourke Street with department stores, cinemas, theatres",
+        "name": "Bourke Street Mall",
+        "opening_hours": "Mo-Fr 09:00-20:00",
+        "tourism": "attraction",
+        "website": "http://www.bourkestreet.com.au",
+        "wikipedia": "en:Bourke Street, Melbourne",
+        "id": "node/4936370204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9644426,
+          -37.8138383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4936374476",
+      "properties": {
+        "addr:postcode": "3000",
+        "addr:street": "Swanston Street",
+        "name": "Federation Square",
+        "name:ko": "페더레이션 광장",
+        "opening_hours": "24/7",
+        "phone": "+61396551900",
+        "tourism": "attraction",
+        "website": "http://www.fedsquare.com",
+        "id": "node/4936374476"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9692129,
+          -37.817861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4936374477",
+      "properties": {
+        "access": "yes",
+        "addr:postcode": "3000",
+        "addr:street": "Hosier Lane",
+        "attraction": "street_art",
+        "description": "Narrow alley completly covered in graffiti art",
+        "fee": "no",
+        "name": "Hosier Lane",
+        "opening_hours": "24/7",
+        "public_access": "full",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "id": "node/4936374477"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9690782,
+          -37.8163287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4936374480",
+      "properties": {
+        "addr:city": "Melbourne",
+        "addr:housenumber": "335",
+        "addr:postcode": "3000",
+        "addr:street": "Bourke Street Mall",
+        "attraction": "shopping",
+        "description": "Historic shoppng arcade & tourist icon.",
+        "name": "Royal Arcade",
+        "opening_hours": "Mo-Th 09:00-18:00; Fr 10:00-20:00; Sa 09:00-17:00; Su 10:00-17:00",
+        "phone": "+61438891212",
+        "start_date": "1870",
+        "tourism": "attraction",
+        "website": "http://www.royalarcade.com.au",
+        "wikipedia": "en:Royal Arcade, Melbourne",
+        "id": "node/4936374480"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9637343,
+          -37.8146584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4957928424",
+      "properties": {
+        "access": "customer",
+        "addr:housename": "Eureka Tower",
+        "addr:postcode": "3006",
+        "description": "Viewing deck at 297 m on top of the Eureka Tower building.",
+        "fee": "yes",
+        "name": "Eureka Skydeck 88",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "phone": "+61396938888",
+        "tourism": "attraction",
+        "website": "https://www.eurekaskydeck.com.au/",
+        "id": "node/4957928424"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9647061,
+          -37.8217832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5280165122",
+      "properties": {
+        "name:zh": "景點",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "id": "node/5280165122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1992789,
+          -33.870342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5636094221",
+      "properties": {
+        "addr:street": "Swanston Street",
+        "description": "Public plaza bordered by Melbourne Town Hall & St Paul’s Cathedral. Currently a big hole n the ground in preparation for the building of underground Town Hall Station",
+        "name": "Melbourne City Square",
+        "tourism": "attraction",
+        "wikipedia": "en:City Square, Melbourne",
+        "id": "node/5636094221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.967009,
+          -37.8162817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6080106486",
+      "properties": {
+        "name": "International Convention Centre",
+        "name:en": "International Convention Centre",
+        "tourism": "attraction",
+        "id": "node/6080106486"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2002312,
+          -33.8760497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6328397386",
+      "properties": {
+        "name": "ACDC Lane",
+        "tourism": "attraction",
+        "id": "node/6328397386"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9708637,
+          -37.8155155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6362846387",
+      "properties": {
+        "name": "Centre Place",
+        "tourism": "attraction",
+        "id": "node/6362846387"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9655146,
+          -37.8165838
+        ]
+      }
+    }
+  ]
+}

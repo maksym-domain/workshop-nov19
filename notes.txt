@@ -1,0 +1,26 @@
+== DB ==
+
+docker exec ws_nov2019_db psql -U postgres -c "DROP DATABASE ws_nov2019;"
+docker exec ws_nov2019_db psql -U postgres -c "CREATE DATABASE ws_nov2019;"
+docker exec ws_nov2019_db psql -U postgres ws_nov2019 -c "CREATE EXTENSION postgis;"
+
+docker exec ws_nov2019_db ogr2ogr -progress -f "PostgreSQL" PG:"dbname=ws_nov2019 user=postgres" /shared_data/McDonlads.geojson
+docker exec ws_nov2019_db ogr2ogr -progress -f "PostgreSQL" PG:"dbname=ws_nov2019 user=postgres" /shared_data/syd-mel-route.geojson
+docker exec ws_nov2019_db ogr2ogr -progress -f "PostgreSQL" PG:"dbname=ws_nov2019 user=postgres" /shared_data/fuel_price_converted.geojson
+docker exec ws_nov2019_db ogr2ogr -progress -f "PostgreSQL" PG:"dbname=ws_nov2019 user=postgres" /shared_data/nsw_suburbs.geojson
+
+
+== Overpass API query ==
+
+[out:json][timeout:25];
+// gather results
+(
+  // query part for: “amenity=post_box”
+  node["building"="office"](-33.87342,151.18859,-33.86411,151.19697);
+  way["building"="office"](-33.87342,151.18859,-33.86411,151.19697);
+  relation["building"="office"](-33.87342,151.18859,-33.86411,151.19697);
+);
+// print results
+out body;
+>;
+out skel qt;

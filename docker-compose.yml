@@ -1,0 +1,16 @@
+version: '3'
+services:
+  postgresql:
+    image: geographica/postgis
+    container_name: ws_nov2019_db
+    ports:
+        - "55432:5432"       
+    environment:          
+        - POSTGRES_DB=postgres
+        - POSTGRES_USER=postgres
+        - POSTGRES_PASSWORD=crerules
+        - POSTGRES_PASSWD=crerules
+    volumes:
+        - ./data:/shared_data
+    restart: always
+   

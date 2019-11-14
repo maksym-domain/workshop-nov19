@@ -1,0 +1,3621 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.128114,
+          -33.904928
+        ]
+      },
+      "properties": {
+        "id": 2213373,
+        "category_id": 95,
+        "name": "MCDONALDS HURLSTONE PARK NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1332796627,
+          -33.9911657471
+        ]
+      },
+      "properties": {
+        "id": 2213374,
+        "category_id": 95,
+        "name": "MCDONALDS SANS SOUCI NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.913228,
+          -33.917931
+        ]
+      },
+      "properties": {
+        "id": 2213375,
+        "category_id": 95,
+        "name": "MCDONALDS LIVERPOOL WEST NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.122462,
+          -33.952691
+        ]
+      },
+      "properties": {
+        "id": 2213376,
+        "category_id": 95,
+        "name": "MCDONALDS BEXLEY NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9829566822,
+          -37.8083878758
+        ]
+      },
+      "properties": {
+        "id": 2213380,
+        "category_id": 95,
+        "name": "MCDONALDS COLLINGWOOD VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.065765171619,
+          -33.9305422359663
+        ]
+      },
+      "properties": {
+        "id": 2213382,
+        "category_id": 95,
+        "name": "MCDONALDS PUNCHBOWL NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.99683,
+          -37.74512
+        ]
+      },
+      "properties": {
+        "id": 2213386,
+        "category_id": 95,
+        "name": "MCDONALDS PRESTON VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.268501,
+          -37.788975
+        ]
+      },
+      "properties": {
+        "id": 2213388,
+        "category_id": 95,
+        "name": "MCDONALDS CROYDON VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.121317,
+          -34.042727
+        ]
+      },
+      "properties": {
+        "id": 2213389,
+        "category_id": 95,
+        "name": "MCDONALDS CARINGBAH NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8107843485,
+          -34.0713432656
+        ]
+      },
+      "properties": {
+        "id": 2213391,
+        "category_id": 95,
+        "name": "MCDONALDS CAMPBELLTOWN NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.20245042576,
+          -33.8837373512783
+        ]
+      },
+      "properties": {
+        "id": 2213394,
+        "category_id": 95,
+        "name": "MCDONALDS BROADWAY NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9320644735,
+          -37.788077833
+        ]
+      },
+      "properties": {
+        "id": 2213395,
+        "category_id": 95,
+        "name": "MCDONALDS FLEMINGTON VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.138218795,
+          -35.2497935353
+        ]
+      },
+      "properties": {
+        "id": 2213396,
+        "category_id": 95,
+        "name": "MCDONALDS DICKSON ACT",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.0533839656,
+          -35.33957
+        ]
+      },
+      "properties": {
+        "id": 2213400,
+        "category_id": 95,
+        "name": "MCDONALDS WESTON ACT",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0514960417,
+          -37.7529641692
+        ]
+      },
+      "properties": {
+        "id": 2213405,
+        "category_id": 95,
+        "name": "MCDONALDS HEIDELBERG VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8552765449,
+          -34.4306724625
+        ]
+      },
+      "properties": {
+        "id": 2213408,
+        "category_id": 95,
+        "name": "MCDONALDS FIGTREE NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.084668,
+          -37.813662
+        ]
+      },
+      "properties": {
+        "id": 2213409,
+        "category_id": 95,
+        "name": "MCDONALDS BALWYN VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.917709,
+          -33.930891
+        ]
+      },
+      "properties": {
+        "id": 2213411,
+        "category_id": 95,
+        "name": "MCDONALDS LIVERPOOL SOUTH NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.015056,
+          -34.066464
+        ]
+      },
+      "properties": {
+        "id": 2213422,
+        "category_id": 95,
+        "name": "MCDONALDS ENGADINE NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.103542,
+          -34.00899
+        ]
+      },
+      "properties": {
+        "id": 2213430,
+        "category_id": 95,
+        "name": "MCDONALDS SYLVANIA NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0384610589,
+          -33.9141924056
+        ]
+      },
+      "properties": {
+        "id": 2213433,
+        "category_id": 95,
+        "name": "MCDONALDS BANKSTOWN NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.104259,
+          -33.976975
+        ]
+      },
+      "properties": {
+        "id": 2213434,
+        "category_id": 95,
+        "name": "MCDONALDS HURSTVILLE SOUTH NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2068215251,
+          -33.8692259654
+        ]
+      },
+      "properties": {
+        "id": 2213435,
+        "category_id": 95,
+        "name": "MCDONALDS STRAND NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.103505068613,
+          -37.7018149707174
+        ]
+      },
+      "properties": {
+        "id": 2213440,
+        "category_id": 95,
+        "name": "MCDONALDS GREENSBOROUGH VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.912405,
+          -36.084571
+        ]
+      },
+      "properties": {
+        "id": 2213442,
+        "category_id": 95,
+        "name": "MCDONALDS ALBURY NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9039654464,
+          -37.7423268855
+        ]
+      },
+      "properties": {
+        "id": 2213443,
+        "category_id": 95,
+        "name": "MCDONALDS NIDDRIE VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.961864,
+          -37.814503
+        ]
+      },
+      "properties": {
+        "id": 2213444,
+        "category_id": 95,
+        "name": "MCDONALDS BOURKE ST WEST VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.356606,
+          -37.757567
+        ]
+      },
+      "properties": {
+        "id": 2213453,
+        "category_id": 95,
+        "name": "MCDONALDS LILYDALE VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8483444196,
+          -34.0303443794
+        ]
+      },
+      "properties": {
+        "id": 2213457,
+        "category_id": 95,
+        "name": "MCDONALDS MINTO NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.749285,
+          -34.747766
+        ]
+      },
+      "properties": {
+        "id": 2213460,
+        "category_id": 95,
+        "name": "MCDONALDS GOULBURN NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.206678,
+          -33.875442
+        ]
+      },
+      "properties": {
+        "id": 2213462,
+        "category_id": 95,
+        "name": "MCDONALDS PLAZA NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.395518,
+          -36.399751
+        ]
+      },
+      "properties": {
+        "id": 2213464,
+        "category_id": 95,
+        "name": "MCDONALDS SHEPPARTON VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3634695324,
+          -35.1187751334
+        ]
+      },
+      "properties": {
+        "id": 2213465,
+        "category_id": 95,
+        "name": "MCDONALDS WAGGA WAGGA NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.6075512388,
+          -34.9054628441
+        ]
+      },
+      "properties": {
+        "id": 2213478,
+        "category_id": 95,
+        "name": "MCDONALDS NOWRA NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.018583,
+          -33.938721
+        ]
+      },
+      "properties": {
+        "id": 2213486,
+        "category_id": 95,
+        "name": "MCDONALDS REVESBY NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.952963,
+          -33.897331
+        ]
+      },
+      "properties": {
+        "id": 2213487,
+        "category_id": 95,
+        "name": "MCDONALDS LANSVALE NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.2412574049,
+          -35.3492568053
+        ]
+      },
+      "properties": {
+        "id": 2213495,
+        "category_id": 95,
+        "name": "MCDONALDS QUEANBEYAN NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.825914,
+          -34.04926
+        ]
+      },
+      "properties": {
+        "id": 2213497,
+        "category_id": 95,
+        "name": "MCDONALDS WOODBINE NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9645607877,
+          -37.8178823939
+        ]
+      },
+      "properties": {
+        "id": 2213501,
+        "category_id": 95,
+        "name": "MCDONALDS ELIZABETH STREET VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.803036862412,
+          -34.5672435432609
+        ]
+      },
+      "properties": {
+        "id": 2213505,
+        "category_id": 95,
+        "name": "MCDONALDS ALBION PARK RAIL NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1766011362,
+          -37.8179369361
+        ]
+      },
+      "properties": {
+        "id": 2213512,
+        "category_id": 95,
+        "name": "MCDONALDS NUNAWADING II VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.993555,
+          -37.787188
+        ]
+      },
+      "properties": {
+        "id": 2213513,
+        "category_id": 95,
+        "name": "MCDONALDS CLIFTON HILL VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.0698324431,
+          -35.4155379208
+        ]
+      },
+      "properties": {
+        "id": 2213519,
+        "category_id": 95,
+        "name": "MCDONALDS TUGGERANONG ACT",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0284887351,
+          -37.7412014209
+        ]
+      },
+      "properties": {
+        "id": 2213525,
+        "category_id": 95,
+        "name": "MCDONALDS NORTHLAND VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.105782,
+          -33.964822
+        ]
+      },
+      "properties": {
+        "id": 2213537,
+        "category_id": 95,
+        "name": "MCDONALDS HURSTVILLE W/F NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.959749,
+          -37.807468
+        ]
+      },
+      "properties": {
+        "id": 2213540,
+        "category_id": 95,
+        "name": "MCDONALDS VICTORIA MARKETS VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.17205958532,
+          -33.8882266452632
+        ]
+      },
+      "properties": {
+        "id": 2213545,
+        "category_id": 95,
+        "name": "MCDONALDS STANMORE NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.741733566795,
+          -34.0393140435563
+        ]
+      },
+      "properties": {
+        "id": 2213550,
+        "category_id": 95,
+        "name": "MCDONALDS NARELLAN NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.0743712871,
+          -35.2399568166
+        ]
+      },
+      "properties": {
+        "id": 2213551,
+        "category_id": 95,
+        "name": "MCDONALDS BELCONNEN ACT",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.077015627,
+          -37.6586854312
+        ]
+      },
+      "properties": {
+        "id": 2213555,
+        "category_id": 95,
+        "name": "MCDONALDS MILL PARK VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3110173915,
+          -37.7881157036
+        ]
+      },
+      "properties": {
+        "id": 2213558,
+        "category_id": 95,
+        "name": "MCDONALDS MOOROOLBARK VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.0653343429,
+          -35.2380817525
+        ]
+      },
+      "properties": {
+        "id": 2213560,
+        "category_id": 95,
+        "name": "MCDONALDS BELCONNEN FOOD COURT ACT",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1380791718,
+          -37.7186160539
+        ]
+      },
+      "properties": {
+        "id": 2213566,
+        "category_id": 95,
+        "name": "MCDONALDS ELTHAM VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.072161498,
+          -33.8874706554
+        ]
+      },
+      "properties": {
+        "id": 2213568,
+        "category_id": 95,
+        "name": "MCDONALDS ENFIELD NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.628366,
+          -37.82636
+        ]
+      },
+      "properties": {
+        "id": 2213570,
+        "category_id": 95,
+        "name": "MCDONALDS BAIRNSDALE VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.249571820946,
+          -36.4398263423471
+        ]
+      },
+      "properties": {
+        "id": 2213573,
+        "category_id": 95,
+        "name": "MCDONALDS GLENROWAN SOUTH VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.2257393068,
+          -34.6076289807
+        ]
+      },
+      "properties": {
+        "id": 2213586,
+        "category_id": 95,
+        "name": "MCDONALDS SUTTON FOREST NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.178427,
+          -33.913817
+        ]
+      },
+      "properties": {
+        "id": 2213592,
+        "category_id": 95,
+        "name": "MCDONALDS ST PETERS NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.921469,
+          -37.721294
+        ]
+      },
+      "properties": {
+        "id": 2213593,
+        "category_id": 95,
+        "name": "MCDONALDS OAK PARK VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9609347583,
+          -37.7754971917
+        ]
+      },
+      "properties": {
+        "id": 2213598,
+        "category_id": 95,
+        "name": "MCDONALDS BRUNSWICK VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.161808,
+          -37.788947
+        ]
+      },
+      "properties": {
+        "id": 2213601,
+        "category_id": 95,
+        "name": "MCDONALDS EAST DONCASTER",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.0869425939,
+          -35.346231225
+        ]
+      },
+      "properties": {
+        "id": 2213602,
+        "category_id": 95,
+        "name": "MCDONALDS WODEN ACT",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.099839,
+          -34.034876
+        ]
+      },
+      "properties": {
+        "id": 2213603,
+        "category_id": 95,
+        "name": "MCDONALDS MIRANDA F/C LVL 1 NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.865965,
+          -36.12748
+        ]
+      },
+      "properties": {
+        "id": 2213605,
+        "category_id": 95,
+        "name": "MCDONALDS WODONGA VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9029329048,
+          -34.4277421868
+        ]
+      },
+      "properties": {
+        "id": 2213609,
+        "category_id": 95,
+        "name": "MCDONALDS WOLLONGONG NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.114509,
+          -33.870144
+        ]
+      },
+      "properties": {
+        "id": 2213616,
+        "category_id": 95,
+        "name": "MCDONALDS FIVE DOCK NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8013031006,
+          -34.4957749561
+        ]
+      },
+      "properties": {
+        "id": 2213632,
+        "category_id": 95,
+        "name": "MCDONALDS DAPTO NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1206285853,
+          -34.0280041981
+        ]
+      },
+      "properties": {
+        "id": 2213637,
+        "category_id": 95,
+        "name": "MCDONALDS TAREN POINT NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0118278712,
+          -37.8197393507
+        ]
+      },
+      "properties": {
+        "id": 2213638,
+        "category_id": 95,
+        "name": "MCDONALDS BURNLEY VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2018262467,
+          -33.9017288818
+        ]
+      },
+      "properties": {
+        "id": 2213645,
+        "category_id": 95,
+        "name": "MCDONALDS WATERLOO NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.860084,
+          -34.551797
+        ]
+      },
+      "properties": {
+        "id": 2213646,
+        "category_id": 95,
+        "name": "MCDONALDS WARILLA NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9218527877,
+          -37.6774313008
+        ]
+      },
+      "properties": {
+        "id": 2213647,
+        "category_id": 95,
+        "name": "MCDONALDS BROADMEADOWS VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.798406,
+          -34.100576
+        ]
+      },
+      "properties": {
+        "id": 2213652,
+        "category_id": 95,
+        "name": "MCDONALDS ROSEMEADOW NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.998773,
+          -33.900516
+        ]
+      },
+      "properties": {
+        "id": 2213653,
+        "category_id": 95,
+        "name": "MCDONALDS BASS HILL NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0863485559,
+          -37.7308138283
+        ]
+      },
+      "properties": {
+        "id": 2213657,
+        "category_id": 95,
+        "name": "MCDONALDS YALLAMBIE VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0359611718,
+          -37.8205715319
+        ]
+      },
+      "properties": {
+        "id": 2213660,
+        "category_id": 95,
+        "name": "MCDONALDS HAWTHORN VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.958462,
+          -37.827666
+        ]
+      },
+      "properties": {
+        "id": 2213663,
+        "category_id": 95,
+        "name": "MCDONALDS SOUTH MELBOURNE VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.122609,
+          -37.81959
+        ]
+      },
+      "properties": {
+        "id": 2213672,
+        "category_id": 95,
+        "name": "MCDONALDS BOX HILL CENTRAL VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.594911172014,
+          -34.8432941296488
+        ]
+      },
+      "properties": {
+        "id": 2213674,
+        "category_id": 95,
+        "name": "MCDONALDS BOMADERRY NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0184585483,
+          -37.6594638174
+        ]
+      },
+      "properties": {
+        "id": 2213681,
+        "category_id": 95,
+        "name": "MCDONALDS EPPING VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.442868168,
+          -34.4517572512
+        ]
+      },
+      "properties": {
+        "id": 2213688,
+        "category_id": 95,
+        "name": "MCDONALDS MITTAGONG NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.1307178515,
+          -35.2756031977
+        ]
+      },
+      "properties": {
+        "id": 2213689,
+        "category_id": 95,
+        "name": "MCDONALDS BRADDON ACT",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.902419762,
+          -34.4278369493
+        ]
+      },
+      "properties": {
+        "id": 2213690,
+        "category_id": 95,
+        "name": "MCDONALDS WOLLONGONG CENTRAL NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9553345632,
+          -37.6739981811
+        ]
+      },
+      "properties": {
+        "id": 2213698,
+        "category_id": 95,
+        "name": "MCDONALDS CAMPBELLFIELD VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.893269,
+          -33.986502
+        ]
+      },
+      "properties": {
+        "id": 2213699,
+        "category_id": 95,
+        "name": "MCDONALDS GLENQUARIE NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0548754391,
+          -34.2884868003
+        ]
+      },
+      "properties": {
+        "id": 2213700,
+        "category_id": 95,
+        "name": "MCDONALDS GRIFFITH NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.973008,
+          -37.813455
+        ]
+      },
+      "properties": {
+        "id": 2213705,
+        "category_id": 95,
+        "name": "MCDONALDS COLLINS STREET EAST VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.073675,
+          -34.031825
+        ]
+      },
+      "properties": {
+        "id": 2213707,
+        "category_id": 95,
+        "name": "MCDONALDS KIRRAWEE NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.013968,
+          -34.015401
+        ]
+      },
+      "properties": {
+        "id": 2213713,
+        "category_id": 95,
+        "name": "MCDONALDS MENAI NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.816292,
+          -34.031688
+        ]
+      },
+      "properties": {
+        "id": 2213725,
+        "category_id": 95,
+        "name": "MCDONALDS EAGLE VALE NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2481571636,
+          -36.4389088236
+        ]
+      },
+      "properties": {
+        "id": 2213730,
+        "category_id": 95,
+        "name": "MCDONALDS GLENROWAN NORTH VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.1747687877,
+          -35.7093402619
+        ]
+      },
+      "properties": {
+        "id": 2213737,
+        "category_id": 95,
+        "name": "MCDONALDS BATEMANS BAY NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.1337056944,
+          -35.3212767852
+        ]
+      },
+      "properties": {
+        "id": 2213741,
+        "category_id": 95,
+        "name": "MCDONALDS MANUKA ACT",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0349175265,
+          -37.8051102247
+        ]
+      },
+      "properties": {
+        "id": 2213751,
+        "category_id": 95,
+        "name": "MCDONALDS KEW VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.8827435966,
+          -34.8067176593
+        ]
+      },
+      "properties": {
+        "id": 2213755,
+        "category_id": 95,
+        "name": "MCDONALDS YASS NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.068606,
+          -33.93533
+        ]
+      },
+      "properties": {
+        "id": 2213756,
+        "category_id": 95,
+        "name": "MCDONALDS ROSELANDS SHOPPING CENTRE NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8661547546,
+          -33.9073493341
+        ]
+      },
+      "properties": {
+        "id": 2213757,
+        "category_id": 95,
+        "name": "MCDONALDS HINCHINBROOK NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.999634,
+          -37.817994
+        ]
+      },
+      "properties": {
+        "id": 2213768,
+        "category_id": 95,
+        "name": "MCDONALDS RICHMOND VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.086527,
+          -33.92574
+        ]
+      },
+      "properties": {
+        "id": 2213774,
+        "category_id": 95,
+        "name": "MCDONALDS LAKEMBA NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.171852,
+          -33.906938
+        ]
+      },
+      "properties": {
+        "id": 2213777,
+        "category_id": 95,
+        "name": "MCDONALDS MARRICKVILLE METRO NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.881473,
+          -33.888356
+        ]
+      },
+      "properties": {
+        "id": 2213778,
+        "category_id": 95,
+        "name": "MCDONALDS BONNYRIGG NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.6924202751,
+          -34.7746886076
+        ]
+      },
+      "properties": {
+        "id": 2213800,
+        "category_id": 95,
+        "name": "MCDONALDS GOULBURN SOUTH NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.035307,
+          -33.945665
+        ]
+      },
+      "properties": {
+        "id": 2213806,
+        "category_id": 95,
+        "name": "MCDONALDS PADSTOW NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1030482272,
+          -37.7021316335
+        ]
+      },
+      "properties": {
+        "id": 2213807,
+        "category_id": 95,
+        "name": "MCDONALDS GREENSBOROUGH PLAZA F/C VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.156694,
+          -37.673765
+        ]
+      },
+      "properties": {
+        "id": 2213817,
+        "category_id": 95,
+        "name": "MCDONALDS DIAMOND CREEK VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.042295084656,
+          -37.7168729220729
+        ]
+      },
+      "properties": {
+        "id": 2213820,
+        "category_id": 95,
+        "name": "MCDONALDS KINGSBURY VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.091886,
+          -35.084392
+        ]
+      },
+      "properties": {
+        "id": 2213822,
+        "category_id": 95,
+        "name": "MCDONALDS GUNDAGAI NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.114611,
+          -37.773699
+        ]
+      },
+      "properties": {
+        "id": 2213830,
+        "category_id": 95,
+        "name": "MCDONALDS LOWER TEMPLESTOWE VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7604812096,
+          -34.0490841666
+        ]
+      },
+      "properties": {
+        "id": 2213839,
+        "category_id": 95,
+        "name": "MCDONALDS MOUNT ANNAN NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.1713568307,
+          -35.3251476318
+        ]
+      },
+      "properties": {
+        "id": 2213845,
+        "category_id": 95,
+        "name": "MCDONALDS FYSHWICK ACT",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.034268168,
+          -35.2059407293
+        ]
+      },
+      "properties": {
+        "id": 2213846,
+        "category_id": 95,
+        "name": "MCDONALDS CHARNWOOD ACT",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.964577,
+          -35.526897
+        ]
+      },
+      "properties": {
+        "id": 2213854,
+        "category_id": 95,
+        "name": "MCDONALDS DENILIQUIN NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.907104,
+          -34.340227
+        ]
+      },
+      "properties": {
+        "id": 2213856,
+        "category_id": 95,
+        "name": "MCDONALDS WOONONA NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.699297,
+          -34.053199
+        ]
+      },
+      "properties": {
+        "id": 2213857,
+        "category_id": 95,
+        "name": "MCDONALDS CAMDEN II NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.948229,
+          -33.928971
+        ]
+      },
+      "properties": {
+        "id": 2213858,
+        "category_id": 95,
+        "name": "MCDONALDS MOOREBANK NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.973673,
+          -37.761786
+        ]
+      },
+      "properties": {
+        "id": 2213871,
+        "category_id": 95,
+        "name": "MCDONALDS BRUNSWICK EAST VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.935472,
+          -36.049845
+        ]
+      },
+      "properties": {
+        "id": 2213880,
+        "category_id": 95,
+        "name": "MCDONALDS LAVINGTON NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.858019234463,
+          -33.8943393208947
+        ]
+      },
+      "properties": {
+        "id": 2213881,
+        "category_id": 95,
+        "name": "MCDONALDS BONNYRIGG HEIGHTS NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.126912212303,
+          -33.8743736792874
+        ]
+      },
+      "properties": {
+        "id": 2213883,
+        "category_id": 95,
+        "name": "MCDONALDS CROYDON NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.891942,
+          -34.403099
+        ]
+      },
+      "properties": {
+        "id": 2213885,
+        "category_id": 95,
+        "name": "MCDONALDS FAIRYMEADOW II NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.133005796295,
+          -36.2320134773741
+        ]
+      },
+      "properties": {
+        "id": 2213903,
+        "category_id": 95,
+        "name": "MCDONALDS COOMA NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.140815,
+          -37.809364
+        ]
+      },
+      "properties": {
+        "id": 2213904,
+        "category_id": 95,
+        "name": "MCDONALDS BOX HILL NORTH VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.0916614577,
+          -35.4576629612
+        ]
+      },
+      "properties": {
+        "id": 2213906,
+        "category_id": 95,
+        "name": "MCDONALDS CONDER ACT",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.139808,
+          -33.958012
+        ]
+      },
+      "properties": {
+        "id": 2213909,
+        "category_id": 95,
+        "name": "MCDONALDS ROCKDALE PLAZA NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9481479534,
+          -37.7390290693
+        ]
+      },
+      "properties": {
+        "id": 2213913,
+        "category_id": 95,
+        "name": "MCDONALDS PASCOE VALE SOUTH VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0241166111,
+          -37.6618702653
+        ]
+      },
+      "properties": {
+        "id": 2213914,
+        "category_id": 95,
+        "name": "MCDONALDS EPPING PLAZA VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.988367,
+          -36.550679
+        ]
+      },
+      "properties": {
+        "id": 2213919,
+        "category_id": 95,
+        "name": "MCDONALDS BENALLA VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.929558680917,
+          -37.6401579213505
+        ]
+      },
+      "properties": {
+        "id": 2213934,
+        "category_id": 95,
+        "name": "MCDONALDS ROXBURGH PARK VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1290220229,
+          -37.0201015331
+        ]
+      },
+      "properties": {
+        "id": 2213940,
+        "category_id": 95,
+        "name": "MCDONALDS SEYMOUR VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.87204649071,
+          -33.9554863560148
+        ]
+      },
+      "properties": {
+        "id": 2213950,
+        "category_id": 95,
+        "name": "MCDONALDS PRESTONS NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0663643803,
+          -33.8922393546
+        ]
+      },
+      "properties": {
+        "id": 2213958,
+        "category_id": 95,
+        "name": "MCDONALDS GREENACRE NORTH NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.910814,
+          -36.89011
+        ]
+      },
+      "properties": {
+        "id": 2213959,
+        "category_id": 95,
+        "name": "MCDONALDS MERIMBULA NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8423247983,
+          -33.9379742175
+        ]
+      },
+      "properties": {
+        "id": 2213960,
+        "category_id": 95,
+        "name": "MCDONALDS CARNES HILL NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.104736,
+          -33.874465
+        ]
+      },
+      "properties": {
+        "id": 2213961,
+        "category_id": 95,
+        "name": "MCDONALDS BURWOOD WESTFIELD NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.012174,
+          -34.079004
+        ]
+      },
+      "properties": {
+        "id": 2213962,
+        "category_id": 95,
+        "name": "MCDONALDS HEATHCOTE NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9214462977,
+          -37.5961380748
+        ]
+      },
+      "properties": {
+        "id": 2213963,
+        "category_id": 95,
+        "name": "MCDONALDS CRAIGIEBURN VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8871455582,
+          -34.4870701793
+        ]
+      },
+      "properties": {
+        "id": 2213969,
+        "category_id": 95,
+        "name": "MCDONALDS WARRAWONG II NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.317998,
+          -36.358391
+        ]
+      },
+      "properties": {
+        "id": 2213974,
+        "category_id": 95,
+        "name": "MCDONALDS WANGARATTA VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9188074563,
+          -33.905854639
+        ]
+      },
+      "properties": {
+        "id": 2213976,
+        "category_id": 95,
+        "name": "MCDONALDS LIVERPOOL MEGA CENTRE NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.137494,
+          -33.957055
+        ]
+      },
+      "properties": {
+        "id": 2213977,
+        "category_id": 95,
+        "name": "MCDONALDS ROCKDALE NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.300475,
+          -34.313955
+        ]
+      },
+      "properties": {
+        "id": 2213978,
+        "category_id": 95,
+        "name": "MCDONALDS YOUNG NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1986528013,
+          -33.8717314101
+        ]
+      },
+      "properties": {
+        "id": 2213991,
+        "category_id": 95,
+        "name": "MCDONALDS HARBOURSIDE NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.21953,
+          -37.816865
+        ]
+      },
+      "properties": {
+        "id": 2213995,
+        "category_id": 95,
+        "name": "MCDONALDS RINGWOOD VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1820528677,
+          -33.8888093351
+        ]
+      },
+      "properties": {
+        "id": 2213996,
+        "category_id": 95,
+        "name": "MCDONALDS CAMPERDOWN MCCAFE NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3760484884,
+          -35.1407263657
+        ]
+      },
+      "properties": {
+        "id": 2213997,
+        "category_id": 95,
+        "name": "MCDONALDS WAGGA KOORINGAL NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.107644,
+          -33.895884
+        ]
+      },
+      "properties": {
+        "id": 2214003,
+        "category_id": 95,
+        "name": "MCDONALDS CROYDON PARK NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0116862589,
+          -37.8130461874
+        ]
+      },
+      "properties": {
+        "id": 2214007,
+        "category_id": 95,
+        "name": "MCDONALDS VICTORIA GARDENS VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.132366584,
+          -35.1836949436
+        ]
+      },
+      "properties": {
+        "id": 2214009,
+        "category_id": 95,
+        "name": "MCDONALDS GUNGAHLIN ACT",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9647549153,
+          -37.8121878513
+        ]
+      },
+      "properties": {
+        "id": 2214012,
+        "category_id": 95,
+        "name": "MCDONALDS SWANSTON & LONSDALE VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96298,
+          -37.810121
+        ]
+      },
+      "properties": {
+        "id": 2214022,
+        "category_id": 95,
+        "name": "MCDONALDS MELBOURNE CENTRAL II VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.4716486243,
+          -35.3647989652
+        ]
+      },
+      "properties": {
+        "id": 2214029,
+        "category_id": 95,
+        "name": "MCDONALDS ULLADULLA NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7972422354,
+          -34.0730843168
+        ]
+      },
+      "properties": {
+        "id": 2214030,
+        "category_id": 95,
+        "name": "MCDONALDS MACARTHUR SQUARE II NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.178683950592,
+          -33.9340653158983
+        ]
+      },
+      "properties": {
+        "id": 2214033,
+        "category_id": 95,
+        "name": "MCDONALDS SYDNEY DOMESTIC TERMINAL II NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9239566587,
+          -33.9187052778
+        ]
+      },
+      "properties": {
+        "id": 2214034,
+        "category_id": 95,
+        "name": "MCDONALDS LIVERPOOL F/C II NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0292232408,
+          -37.6884232977
+        ]
+      },
+      "properties": {
+        "id": 2214038,
+        "category_id": 95,
+        "name": "MCDONALDS THOMASTOWN II VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.185874,
+          -33.944869
+        ]
+      },
+      "properties": {
+        "id": 2214046,
+        "category_id": 95,
+        "name": "MCDONALDS GENERAL HOLMES DRIVE NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.014981,
+          -37.402474
+        ]
+      },
+      "properties": {
+        "id": 2214061,
+        "category_id": 95,
+        "name": "MCDONALDS WALLAN NTH VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.016815,
+          -37.403616
+        ]
+      },
+      "properties": {
+        "id": 2214064,
+        "category_id": 95,
+        "name": "MCDONALDS WALLAN STH VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.035128,
+          -33.919364
+        ]
+      },
+      "properties": {
+        "id": 2214065,
+        "category_id": 95,
+        "name": "MCDONALDS BANKSTOWN CENTRO F/C II NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.124866,
+          -37.787445
+        ]
+      },
+      "properties": {
+        "id": 2214066,
+        "category_id": 95,
+        "name": "MCDONALDS DONCASTER F/C II VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.004659,
+          -36.01772
+        ]
+      },
+      "properties": {
+        "id": 2214067,
+        "category_id": 95,
+        "name": "MCDONALDS YARRAWONGA VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.101806,
+          -33.966463
+        ]
+      },
+      "properties": {
+        "id": 2214069,
+        "category_id": 95,
+        "name": "MCDONALDS HURSTVILLE CENTRAL NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.962805,
+          -37.82163
+        ]
+      },
+      "properties": {
+        "id": 2214070,
+        "category_id": 95,
+        "name": "MCDONALDS FRESHWATER PLACE VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9918497374,
+          -37.8080148021
+        ]
+      },
+      "properties": {
+        "id": 2214071,
+        "category_id": 95,
+        "name": "MCDONALDS HODDLE ST VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8107362123,
+          -34.0691353827
+        ]
+      },
+      "properties": {
+        "id": 2214074,
+        "category_id": 95,
+        "name": "MCDONALDS CAMPBELLTOWN MALL II NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2079527684,
+          -33.8704135937
+        ]
+      },
+      "properties": {
+        "id": 2214083,
+        "category_id": 95,
+        "name": "MCDONALDS SYDNEY CENTRAL PLAZA NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.071727545639,
+          -37.6518472382882
+        ]
+      },
+      "properties": {
+        "id": 2214085,
+        "category_id": 95,
+        "name": "MCDONALDS PLENTY VALLEY S/C VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3420231337,
+          -35.1295753452
+        ]
+      },
+      "properties": {
+        "id": 2214089,
+        "category_id": 95,
+        "name": "MCDONALDS WAGGA GLENFIELD NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.736375734953,
+          -34.0427137833362
+        ]
+      },
+      "properties": {
+        "id": 2214091,
+        "category_id": 95,
+        "name": "MCDONALDS NARELLAN TOWN CENTRE II NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.398893460327,
+          -34.5514045581975
+        ]
+      },
+      "properties": {
+        "id": 2214092,
+        "category_id": 95,
+        "name": "MCDONALDS LEETON NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.22389,
+          -35.298814
+        ]
+      },
+      "properties": {
+        "id": 2214094,
+        "category_id": 95,
+        "name": "MCDONALDS TUMUT NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0310920953,
+          -37.7399216147
+        ]
+      },
+      "properties": {
+        "id": 2214096,
+        "category_id": 95,
+        "name": "MCDONALDS NORTHLAND SHOPPING CENTRE II VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.647947,
+          -35.920964
+        ]
+      },
+      "properties": {
+        "id": 2214097,
+        "category_id": 95,
+        "name": "MCDONALDS COBRAM VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.39125,
+          -35.996447
+        ]
+      },
+      "properties": {
+        "id": 2214098,
+        "category_id": 95,
+        "name": "MCDONALDS COROWA VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.612227,
+          -34.167504
+        ]
+      },
+      "properties": {
+        "id": 2214099,
+        "category_id": 95,
+        "name": "MCDONALDS PICTON NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1886066521,
+          -33.9325755438
+        ]
+      },
+      "properties": {
+        "id": 2214100,
+        "category_id": 95,
+        "name": "MCDONALDS SYDNEY AIRPORT - GATEWAY NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.20286,
+          -33.874763
+        ]
+      },
+      "properties": {
+        "id": 2214101,
+        "category_id": 95,
+        "name": "MCDONALDS DARLING QUARTER NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.912108,
+          -33.940191
+        ]
+      },
+      "properties": {
+        "id": 2214102,
+        "category_id": 95,
+        "name": "MCDONALDS CASULA II NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.9098244289,
+          -36.1379422184
+        ]
+      },
+      "properties": {
+        "id": 2214105,
+        "category_id": 95,
+        "name": "MCDONALDS WODONGA HOMEMAKER VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1643357697,
+          -33.9351199684
+        ]
+      },
+      "properties": {
+        "id": 2214111,
+        "category_id": 95,
+        "name": "MCDONALDS INTERNATIONAL - AIRSIDE NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.960006,
+          -37.823205
+        ]
+      },
+      "properties": {
+        "id": 2214122,
+        "category_id": 95,
+        "name": "MCDONALDS CROWN CASINO II VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.136191,
+          -33.884489
+        ]
+      },
+      "properties": {
+        "id": 2214127,
+        "category_id": 95,
+        "name": "MCDONALDS HABERFIELD NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.314496253967,
+          -37.8193094068265
+        ]
+      },
+      "properties": {
+        "id": 2214133,
+        "category_id": 95,
+        "name": "MCDONALDS KILSYTH VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.401975,
+          -36.358474
+        ]
+      },
+      "properties": {
+        "id": 2214135,
+        "category_id": 95,
+        "name": "MCDONALDS SHEPPARTON NORTH VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.94948767,
+          -37.7942751515
+        ]
+      },
+      "properties": {
+        "id": 2214149,
+        "category_id": 95,
+        "name": "MCDONALDS ROYAL CHILDRENS HOSPITAL II VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0650907963,
+          -33.9019624546
+        ]
+      },
+      "properties": {
+        "id": 2214151,
+        "category_id": 95,
+        "name": "MCDONALDS GREENACRE II NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.362983,
+          -36.392667
+        ]
+      },
+      "properties": {
+        "id": 2214154,
+        "category_id": 95,
+        "name": "MCDONALDS MOOROOPNA VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.150309764,
+          -35.2303894351
+        ]
+      },
+      "properties": {
+        "id": 2214159,
+        "category_id": 95,
+        "name": "MCDONALDS MITCHELL ACT",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0294639312,
+          -37.6224930089
+        ]
+      },
+      "properties": {
+        "id": 2214161,
+        "category_id": 95,
+        "name": "MCDONALDS WOLLERT VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.530916,
+          -34.441088
+        ]
+      },
+      "properties": {
+        "id": 2214167,
+        "category_id": 95,
+        "name": "MCDONALDS TEMORA NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.962776,
+          -37.810479
+        ]
+      },
+      "properties": {
+        "id": 2214171,
+        "category_id": 95,
+        "name": "MCDONALDS MELBOURNE CENTRAL UPPER VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.0819188624,
+          -35.1900225939
+        ]
+      },
+      "properties": {
+        "id": 2214173,
+        "category_id": 95,
+        "name": "MCDONALDS GOLD CREEK ACT",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.888333,
+          -33.927809
+        ]
+      },
+      "properties": {
+        "id": 2214174,
+        "category_id": 95,
+        "name": "MCDONALDS CARTWRIGHT NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.1900872354,
+          -35.2943043117
+        ]
+      },
+      "properties": {
+        "id": 2214180,
+        "category_id": 95,
+        "name": "MCDONALDS MAJURA PARK ACT",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.997326423,
+          -33.9304013996
+        ]
+      },
+      "properties": {
+        "id": 2214193,
+        "category_id": 95,
+        "name": "MCDONALDS MILPERRA NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.228081,
+          -34.608169
+        ]
+      },
+      "properties": {
+        "id": 2214205,
+        "category_id": 95,
+        "name": "MCDONALDS SUTTON FOREST SOUTHBOUND NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.0179218135,
+          -35.220213532
+        ]
+      },
+      "properties": {
+        "id": 2214207,
+        "category_id": 95,
+        "name": "MCDONALDS KIPPAX ACT",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.115028,
+          -37.516548
+        ]
+      },
+      "properties": {
+        "id": 2214208,
+        "category_id": 95,
+        "name": "MCDONALDS WHITTLESEA VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.1307409332,
+          -35.2788411486
+        ]
+      },
+      "properties": {
+        "id": 2214209,
+        "category_id": 95,
+        "name": "MCDONALDS CANBERRA CITY ACT",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7606169074,
+          -34.0223248456
+        ]
+      },
+      "properties": {
+        "id": 2214217,
+        "category_id": 95,
+        "name": "MCDONALDS GREGORY HILLS NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.591378,
+          -36.743406
+        ]
+      },
+      "properties": {
+        "id": 2214219,
+        "category_id": 95,
+        "name": "MCDONALDS EUROA VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8403213902,
+          -34.5646116995
+        ]
+      },
+      "properties": {
+        "id": 2214221,
+        "category_id": 95,
+        "name": "MCDONALDS SHELLHARBOUR STOCKLAND F/C NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.133139,
+          -35.279994
+        ]
+      },
+      "properties": {
+        "id": 2214232,
+        "category_id": 95,
+        "name": "MCDONALDS CANBERRA CENTRE II ACT",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.136284425934,
+          -37.6058424827005
+        ]
+      },
+      "properties": {
+        "id": 2214234,
+        "category_id": 95,
+        "name": "MCDONALDS DOREEN",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.837404402447,
+          -36.6739125295633
+        ]
+      },
+      "properties": {
+        "id": 2214240,
+        "category_id": 95,
+        "name": "MCDONALDS BEGA",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.856874830688,
+          -33.9542261384567
+        ]
+      },
+      "properties": {
+        "id": 2214246,
+        "category_id": 95,
+        "name": "MCDONALDS EDMONDSON PARK",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.919783726242,
+          -37.5738945023707
+        ]
+      },
+      "properties": {
+        "id": 2214259,
+        "category_id": 95,
+        "name": "MCDONALDS CRAIGIEBURN NORTH",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.392256429569,
+          -35.1227952219568
+        ]
+      },
+      "properties": {
+        "id": 2214265,
+        "category_id": 95,
+        "name": "MCDONALDS WAGGA EAST",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.9472,
+          -36.075892
+        ]
+      },
+      "properties": {
+        "id": 2214276,
+        "category_id": 95,
+        "name": "MCDONALDS ALBURY EAST",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9683172,
+          -37.8126674
+        ]
+      },
+      "properties": {
+        "id": 2214292,
+        "category_id": 95,
+        "name": "BOURKE & RUSSELL",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.379096871689,
+          -34.5463029341354
+        ]
+      },
+      "properties": {
+        "id": 2214293,
+        "category_id": 95,
+        "name": "MCDONALD'S MOSS VALE",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.94844,
+          -37.288082
+        ]
+      },
+      "properties": {
+        "id": 2214297,
+        "category_id": 95,
+        "name": "MCDONALD'S KILMORE, VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.729854758197,
+          -34.0702771656262
+        ]
+      },
+      "properties": {
+        "id": 2214302,
+        "category_id": 95,
+        "name": "MCDONALD'S SPRING FARM NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9798596,
+          -37.4128719
+        ]
+      },
+      "properties": {
+        "id": 2214314,
+        "category_id": 95,
+        "name": "Wallan, Victoria",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.601381817969,
+          -34.8783430494541
+        ]
+      },
+      "properties": {
+        "id": 2214326,
+        "category_id": 95,
+        "name": "McDonald's Nowra Central",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.790272213986,
+          -33.9961713245333
+        ]
+      },
+      "properties": {
+        "id": 2214329,
+        "category_id": 95,
+        "name": "MCDONALD'S EMERALD HILLS",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1752764,
+          -33.9399228
+        ]
+      },
+      "properties": {
+        "id": 2214331,
+        "category_id": 95,
+        "name": "MCDONALD'S INTERNATIONAL AIRSIDE III NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.980133999999,
+          -33.877527
+        ]
+      },
+      "properties": {
+        "id": 2214334,
+        "category_id": 95,
+        "name": "MCDONALDS VILLAWOOD II NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.181313999999,
+          -33.9284809999999
+        ]
+      },
+      "properties": {
+        "id": 2214335,
+        "category_id": 95,
+        "name": "MCDONALDS INTERNATIONAL ARRIVALS NSW",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.958127999999,
+          -37.6895409999999
+        ]
+      },
+      "properties": {
+        "id": 2214336,
+        "category_id": 95,
+        "name": "MCDONALDS FAWKNER II VIC",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8550478,
+          -33.917796
+        ]
+      },
+      "properties": {
+        "id": 2214337,
+        "category_id": 95,
+        "name": "McDonald's Hoxton Park M7",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.097920333374,
+          -35.4052123905554
+        ]
+      },
+      "properties": {
+        "id": 2214339,
+        "category_id": 95,
+        "name": "MCDONALDS ERINDALE ACT",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.056603327786,
+          -35.3218830248793
+        ]
+      },
+      "properties": {
+        "id": 2214350,
+        "category_id": 95,
+        "name": "Molonglo Valley ACT",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.093999,
+          -37.603477
+        ]
+      },
+      "properties": {
+        "id": 2214356,
+        "category_id": 95,
+        "name": "MCDONALD'S MERNDA ",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.203465,
+          -33.905792
+        ]
+      },
+      "properties": {
+        "id": 2214357,
+        "category_id": 95,
+        "name": "GREEN SQUARE",
+        "type": "gapmaps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.20285,
+          -33.878262
+        ]
+      },
+      "properties": {
+        "id": 2214358,
+        "category_id": 95,
+        "name": "MCDONALD'S DARLING SQUARE",
+        "type": "gapmaps"
+      }
+    }
+  ]
+}
