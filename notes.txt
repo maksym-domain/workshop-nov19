@@ -9,6 +9,18 @@ docker exec ws_nov2019_db ogr2ogr -progress -f "PostgreSQL" PG:"dbname=ws_nov201
 docker exec ws_nov2019_db ogr2ogr -progress -f "PostgreSQL" PG:"dbname=ws_nov2019 user=postgres" /shared_data/fuel_price_converted.geojson
 docker exec ws_nov2019_db ogr2ogr -progress -f "PostgreSQL" PG:"dbname=ws_nov2019 user=postgres" /shared_data/nsw_suburbs.geojson
 
+== Wikidata ==
+
+SELECT ?item ?itemLabel ?population ?geo
+WHERE 
+{
+  ?item wdt:P31 wd:Q188509.
+  ?item wdt:P131 wd:Q5356001.
+  ?item wdt:P1082 ?population.
+  ?item wdt:P625 ?geo.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+
 
 == Overpass API query ==
 
