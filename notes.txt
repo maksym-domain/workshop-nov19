@@ -1,3 +1,7 @@
+BE-NL
+https://goo.gl/maps/7Lr1JQSfRZA9LguHA 
+https://www.openstreetmap.org/relation/53137#map=15/51.4413/4.9449 
+
 == DB ==
 
 docker exec ws_nov2019_db psql -U postgres -c "DROP DATABASE ws_nov2019;"
